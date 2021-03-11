@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+- 🍊 OMG, a coding orange!
+- 🌱 I’m currently learning data structures & algorithms
+
 <!--
-**Orange-C/Orange-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
