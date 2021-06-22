@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🍊 I’m a coding orange!
-- 🌱 I’m currently learning data structures & algorithms
 
 <!--
 
