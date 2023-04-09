@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently learning stars
